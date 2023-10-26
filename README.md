@@ -14,4 +14,4 @@ You can view a live demo of the project here: https://exquisite-cannoli-e119df.n
 - ⏸ Save todos to Local Storage when the state changes
 - ▶️ Load the todos from Local Storage when the site is loaded again
 
-## 🌙 Light \ dark mode toggle
+ <!-- 🌙 Light \ dark mode toggle -->
