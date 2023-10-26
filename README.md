@@ -5,7 +5,7 @@
 
 ## This is a super simple Todo App built using React.js and styled using Tailwindcss.
 
-You can view a live demo of the project here:
+You can view a live demo of the project here: https://exquisite-cannoli-e119df.netlify.app/
 
 ## 😃 Features:
 
